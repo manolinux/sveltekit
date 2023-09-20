@@ -23,8 +23,8 @@
     "vite": "^4.4.2"
   },
   "ampt": {
-    "org": "",
-    "app": "sveltekit"
+    "app": "sveltekit",
+    "org": "mcotallo307456"
   },
   "type": "module",
   "dependencies": {
